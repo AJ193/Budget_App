@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe 'Home page', type: :feature do
   before :each do
-    visit home_index_path
+    visit root_path # Use the correct route helper
   end
 
   it 'I can see the button in splash screen' do
