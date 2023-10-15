@@ -68,3 +68,13 @@ group :test do
   gem 'capybara'
   gem 'selenium-webdriver'
 end
+
+gem 'devise'
+
+gem 'cancancan'
+
+gem 'factory_bot_rails'
+
+gem 'rspec-rails', '~> 5.0'
+
+gem 'rails-controller-testing'
