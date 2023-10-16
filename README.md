@@ -64,9 +64,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - [Live Demo Link]()
+ - [Live Demo Link](https://budget-app-senz.onrender.com/)
 
- - [Presentation Loom Video]()
+ - [Presentation Loom Video](https://www.loom.com/share/3bc3aa119c974ceaae43c8d18e8e174e?sid=e2c38e68-02e0-4ab6-a8ba-1e8c5e94a234)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
