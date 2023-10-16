@@ -78,3 +78,5 @@ gem 'factory_bot_rails'
 gem 'rspec-rails', '~> 5.0'
 
 gem 'rails-controller-testing'
+
+gem 'tailwindcss-rails'
