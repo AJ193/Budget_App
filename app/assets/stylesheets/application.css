@@ -41,3 +41,8 @@ body {
 /* body {
     background-color: #3778c2 !important;
   } */
+
+.flex {
+  position: relative;
+  top: -40px;
+}
